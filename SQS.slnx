@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="SQSConsumer/SQSConsumer.csproj" />
-  <Project Path="SQSPublisher/SQSPublisher.csproj" />
-</Solution>

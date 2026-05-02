@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SQSConsumer/SQSConsumer.csproj" />
+  <Project Path="SQSPublisher/SQSPublisher.csproj" />
+  <Project Path="SQSWebAPI.Consumer/SQSWebAPI.Consumer.csproj" />
+  <Project Path="SQSWebAPI.Publisher/SQSWebAPI.Publisher.csproj" />
+</Solution>
