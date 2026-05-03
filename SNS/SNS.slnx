@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SNSPublisher/SNSPublisher.csproj" />
+  <Project Path="SNSWebAPI.Publisher\SNSWebAPI.Publisher.csproj" />
+  <Project Path="SQSConsumer/SQSConsumer.csproj" />
+</Solution>
