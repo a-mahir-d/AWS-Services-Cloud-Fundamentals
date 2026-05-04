@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Customers.WebAPI/Customers.WebAPI.csproj" />
+  <Project Path="Transactions.ConsoleApp/Transactions.ConsoleApp.csproj" />
+</Solution>
