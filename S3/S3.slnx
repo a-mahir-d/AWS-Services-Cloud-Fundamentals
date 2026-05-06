@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Customers.WebAPI/Customers.WebAPI.csproj" />
+  <Project Path="S3.Download/S3.Download.csproj" />
+  <Project Path="S3.Upload/S3.Upload.csproj" />
+</Solution>
