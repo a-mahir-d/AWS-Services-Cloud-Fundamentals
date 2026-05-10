@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SimpleDynamoDbLambda/SimpleDynamoDbLambda.csproj" />
+  <Project Path="SimpleHttpLambda/SimpleHttpLambda.csproj" />
+  <Project Path="SimpleLambda/SimpleLambda.csproj" />
+  <Project Path="SimpleS3Lambda/SimpleS3Lambda.csproj" />
+  <Project Path="SimpleSnsLambda/SimpleSnsLambda.csproj" />
+  <Project Path="SimpleSqsLambda/SimpleSqsLambda.csproj" />
+</Solution>
